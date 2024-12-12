@@ -1,0 +1,46 @@
+.show-filter{
+    display:flex;
+    justify-content: space-around;
+    margin-top:20px;
+    
+    
+}
+.gd{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width:200px;
+}
+.filter-list{
+    width:25vw;
+    padding:11px;
+}
+.product-con{
+    width:100vw;
+    
+
+    
+}
+.product-con2{
+    width:75vw;
+}
+img{
+    height:200px;
+    width:200px;
+}
+.product-card{
+    width:22vw;
+}
+.product-con3{
+    display:flex;
+    flex-wrap: wrap;
+    
+    
+
+}
+.heading{
+    font-size:15px;
+}
+.anc{
+    font-size:12px;
+}

@@ -1,0 +1,12 @@
+.sc{
+    margin-top:180px;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:20%;
+    margin-right:20%;
+    margin-bottom:50px;
+
+}

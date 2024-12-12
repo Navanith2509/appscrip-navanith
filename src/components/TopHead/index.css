@@ -1,0 +1,18 @@
+.box1 {
+  background-color: black;
+  color: #eb4c6b;
+  font-size: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 100%;
+  display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:10px;
+}
+@media (max-width: 768px) {
+  .cls{
+    display:none;
+  }
+  
+}
